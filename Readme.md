@@ -1,20 +1,17 @@
-this normal text
-this is readme file
-# this is heading 1
-## this 2ed heading
-### this third heading.
+
+## it include the home, about, contact page
+### this my project
 **bold**
 *Italic*
-***kda***
-*unoder list*
+*** my skills***
+*unorder list*
 -html
 -css
--java
--c
-1haja
-2.css
-3kdfjd
-to create a newline we use \n in jave``hsja`` `java` ```phythone```
-![this image](this.png)
 ---
+**output of home**
+![this is image](home.png)
+**output of about**
+![about page](about.png)
+**output of contact**
+![contact page](contact.png)
 
